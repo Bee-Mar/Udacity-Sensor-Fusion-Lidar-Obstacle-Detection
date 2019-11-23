@@ -1,0 +1,16 @@
+.clangd
+src/quiz/cluster/.clangd
+src/quiz/ransac/.clangd
+
+.ccls-cache
+src/quiz/cluster/.ccls-cache
+src/quiz/ransac/.ccls-cache
+
+build
+src/quiz/cluster/build
+src/quiz/ransac/build
+
+compile_commands.json
+src/quiz/ransac/compile_commands.json
+src/quiz/cluster/compile_commands.json
+
